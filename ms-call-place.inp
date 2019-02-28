@@ -1,0 +1,9 @@
+-place_on_slab 
+-unit_cell super332.xyz
+-cell_vector [[12.2586, 0, 0], [0, 12.258599999999999, 0], [0, 0, 28.1724]]
+-target_molecule meooh.xyz 
+-align_method alignpair 
+-surface_atom_type Ag 
+-num_surface_atoms 4
+-object_align [2,7]
+-align_dist 2.1 
